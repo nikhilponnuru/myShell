@@ -4,5 +4,5 @@ It's features include :-
 1)Pipes
 2)Builtin commands
 3)parsing a command
-
+commands must be only in a single line and builtins include --'cd', 'help' ,'ls','exit'
  and I love to increase its feature's set
